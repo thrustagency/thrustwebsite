@@ -3,10 +3,8 @@
 
 <br />
 
-<h4>Technologies used in this project:</h4>
+<h4>To initiate the project:</h4>
 <ul>
-    <li>Node.js
-    <li>React.js
-    <li>Axios
-    <li>Nodemailer
+    <li>npm install
+    <li>node index.js
 </ul>
