@@ -1,0 +1,34 @@
+{
+    "managementArtists": [
+        {
+            "id": 1,
+            "name": "Alignment",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/ALIGNMENTOFFICIAL/",
+            "soundcloud": "https://soundcloud.com/alignment-3",
+            "ra": "https://www.residentadvisor.net/dj/alignment",
+            "image": "alignment.jpg",
+            "url": "alignment",
+            "pressKit":
+                "https://www.dropbox.com/sh/kh0ykcanhzzkgx8/AABrtfVTfZExOMDGfFagP_Ova/ALIGNMENT?dl=0",
+            "soundcloudEmbed": 144680103,
+            "bio":
+                "Alignment is a DJ and producer based in Berlin.He initiated his new musical project in late July of 2015 - Meanwhile he became a respected producer in the techno scene. In April 2016 he got signed to voxnox Records and is still a core artists of the Ber-lin based digital and vinyl label.Alignment dropped heavy EPs on voxnox, ARTS, FLASH Rec by Florian Meindl  & on Etruria Beat by Luca Agnelli.His talent as producer and dynamic performance as DJ let him already play around Germany, France, Spain & Italy.On February 15th he releases his first vinyl 'Spectral' on voxnox Records which already catched huge support in the scene for example by amazing artistslike Ben Klock, Chris Liebing, Laurent Garnier, Richie Hawtin, Joseph Capriati, Maceo Plex, SLAM, Seteaoc Mass, Bas Mooy, Cleric, Randomer, Abstract Divisi-on, Roberto Capuano, Nicole Moudaber, Arnaud Rebotini, Keith Carnal and many more...This story has just begun... stay tuned!"
+        },
+        {
+            "id": 10,
+            "name": "Sept",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/SeptOnly/",
+            "soundcloud": "https://soundcloud.com/septonly",
+            "ra": "https://www.residentadvisor.net/dj/sept",
+            "image": "sept.jpg",
+            "url": "sept",
+            "pressKit":
+                "https://www.dropbox.com/sh/kh0ykcanhzzkgx8/AAAyUCvt4JREQn1fS8y51y-4a/SEPT?dl=0",
+            "soundcloudEmbed": 1188934,
+            "bio":
+                "Behind the name Sept stands Warsaw based music producer, who describe his mu- sic as eclectic, hypnotic and powerful. He performed at all major clubs in Poland according to Resident Advisor and regularly plays at respected European Venues, to name few: Ubel Und Gefaerlich, IPSE, Chalet. Till today Sept released his music at Voxnox Records (DE), Sonntag Morgen (IT), Flash Recirdings (DE), Abyss Recor- dings (UK) and 2651 Records (UK). He has already planned some digital and vinyl releases in 2017. He was also asked to record exclusive podcasts for Monument (NO), Container (IT) and Deep Space Series (BE). Now he is working on his debut album, which is going to be released on fall 2017/2018."
+        }
+    ]
+}

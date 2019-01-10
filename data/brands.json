@@ -1,0 +1,49 @@
+{
+    "brands": [
+        {
+            "name": "FACT",
+            "facebook": "https://www.facebook.com/FACT.WORLD.WIDE/",
+            "soundcloud": "https://soundcloud.com/fact-world-wide-events",
+            "ra": "https://www.residentadvisor.net/promoter.aspx?id=33173",
+            "url": "fact",
+            "bio1":
+                "FACT represents quality, professionality and a worldwide reference in the production of electronic music events. In our 7 years of experience we have successfully produced our own events and have partnered with the most influential brands in the industry, such as Loveland, HYTE, Cocoon, Drumcode and Watergate, among others. We constantly seek new places and partners with whom we can share our vision and concept. For that we adapt to your club and local scene of your city and we design the best proposal to achieve the success of each project. We want to bring our concept to your club and help you manage the production of the event in 360 degrees. Our experience and dynamism make us an ideal partner to manage together high-quality, unique and profitable events.",
+            "bio2":
+                "    FACT Club is a new concept, combining avant-garde audiovisual technology with the best electronic music. Creating a unique event, turning the venue into an ephemeral location and giving it the identity of FACT as a brand. The concept was born during Off-Week, collaborating with top brands in the electronic music scene like Second State, Watergate, Figure Nacht and Drumcode, with more than 6000 attendees over this four nights. events.\n\nFeatured artists: Adam Beyer, Amelie Lens, Call Super, Dense&Pika, DJ Rush, DVS1, Gerd Janson, Ilario Alicante, Kink, Lee Burridge, Len Faki, Marco Resmann, Matrixxman, Pan-Pot, Paul Ritch, Scuba and many more…",
+            "logo": "factwhite.png",
+            "img": "fact-poster.png",
+            "iframeSrc": "https://www.youtube.com/embed/mUe2OQWBtUs",
+            "soundcloudEmbed": "44641243"
+        },
+        {
+            "name": "SYNOID",
+            "facebook": "https://www.facebook.com/synoidberlin/",
+            "soundcloud": "https://soundcloud.com/synoidberlin",
+            "ra": "https://www.residentadvisor.net/profile/synoid",
+            "url": "synoid",
+            "bio1":
+                "Acierate and his partner in crime Tham founded the famous SYNOID event series at Griessmühle, Berlin. The guys are known for outstanding line-ups and intense, over-length-parties. Within old rituals music, both dancing and intoxicants embodied trance-inducing techniques, used to rid oneself of inhibitions and social constraints. A sort of manumission that did not only set free one's individuality, yet also allowed oneself to return to a natural and pure state. ",
+            "bio2":
+                "Find yourself in the realm of SYNOID and indulge in different kinds of techno presented to you by carefully selected and geared to one another live acts and DJ’s.",
+            "logo": "synoid.png",
+            "img": "griessmuehle.jpg",
+            "iframeSrc": "",
+            "soundcloudEmbed": "359551937"
+        },
+        {
+            "name": "Voxnox Records",
+            "facebook": "https://www.facebook.com/voxnoxrecords",
+            "soundcloud": "https://soundcloud.com/voxnoxrecords",
+            "ra": "https://www.residentadvisor.net/record-label.aspx?id=12141",
+            "url": "voxnox-records",
+            "bio1":
+                "voxnox is a creation of a unique and outrageously creative collective of men and women woven out of the same yarn and cut from the same cloth. A strong family-like cohesion is the foundation of our record label philosophy! voxnox was born from a pressing need to represent an alternative view on music.\n\nThe project has been in the making for many years, and has influences and synergy of many different subjects, including music , fashion, arts, guerrilla moves, multicultural life as well as many others. Idealism and pureness is what we stand for!",
+            "bio2":
+                "Injustice must no longer be tolerated, our music, clothes and art are no seasonal IN-Styles, but a time-independent future rebellion. True idealists do not whistle - This project is about real passion!\n\nMaybe voxnox is a kind of illusion, a quiet call for equality, but we are the evidence of the positive mood that is still possible. The world of today encourages the youth to defy against the powerful! voxnox is like the real life: pure, harsh and provocative. Don’t trust the mainstream, seek the truth, find answers and live free - We are the voice of the night!",
+            "logo": "vnr.jpg",
+            "img": "",
+            "iframeSrc": "",
+            "soundcloudEmbed": "1768875"
+        }
+    ]
+}

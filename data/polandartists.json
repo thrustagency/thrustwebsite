@@ -1,0 +1,78 @@
+{
+    "polandArtists": [
+        {
+            "id": 1,
+            "name": "Alias",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/gb.alias/",
+            "soundcloud": "https://soundcloud.com/harvey-mckay",
+            "ra": "https://www.residentadvisor.net/dj/aliasgb",
+            "image": "alias.jpg",
+            "url": "alias",
+            "pressKit":
+                "ttp://www.elitemm.co.uk/wp-content/uploads/2013/05/Harvey-McKay-press-pack-2017.zip",
+            "soundcloudEmbed": 15047,
+            "bio":
+                "Alias is a new project from brother’s Harvey And Ryan McKay."
+        },
+        {
+            "id": 1,
+            "name": "Bleak",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/bleak.naura/",
+            "soundcloud": "https://soundcloud.com/bleak-msq",
+            "ra": "https://www.residentadvisor.net/dj/bleak",
+            "image": "bleak.jpg",
+            "url": "bleak",
+            "pressKit":
+                "http://www.elitemm.co.uk/wp-content/uploads/2017/03/Bleak-Press-Kit-2017.zip",
+            "soundcloudEmbed": 10242,
+            "bio":
+                "When it comes to direction, Bleak is somebody to count on.\nHis productions are underpinned by a fat bass construction, evolving dark and surrealistic pads, chords and heavy rhythms. Giving away tremendous spaces of reverb and complicated structures in his music, pretty much inspired in the underground Techno and House styles of the 90´s.\nReleases on Deeply Rooted House soon led to the Origins of Chaos EP on Delsin, which saw him establish himself as one of the new generation of techno producers to watch. Making his debut at Berghain – Berlin early in 2014 as a Dj, and his fully analogue LIVE set, has set pulses racing throughout Europe and beyond. Constantly being refined the combination of powerful rhythms and a surgical sense of timing set it apart and makes for a genuinely live experience. Fabric – London, Space – Ibiza,Tresor – Berlin,Harry Klein – Munich, and countless other festivals and Clubs have felt the full force.\nWhen creating drive as well as Bleak does, not much can be said more clearly than his music itself. By simply putting everything into his tracks, Bleak goes deep into a state where nostalgia, the present and the future dwells, a place and atmosphere being well communicated through his personal style of Techno."
+        },
+        {
+            "id": 2,
+            "name": "Domenico Crisci",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/domenicocriscimusic/",
+            "soundcloud": "https://soundcloud.com/domenicocrisci",
+            "ra": "https://www.residentadvisor.net/dj/domenicocrisci",
+            "image": "domenicocrisci.jpg",
+            "url": "domenico-crisci",
+            "pressKit":
+                "http://www.elitemm.co.uk/wp-content/uploads/2016/04/Domenico-Crisci-Press-Kit-1.zip",
+            "soundcloudEmbed": 389242,
+            "bio":
+                "After releasing records on L.I.E.S. and it’s offspring Russian Torrent Versions, Caserta native Domenico Crisci quickly rose to prominence among purveyors of timeless Techno. A third record on Eerie cemented his reputation as a careful engineer of effective, crafty dance floor cuts that comfortably sit next to early works of the genre’s pioneers. Domenico gathered experience as a DJ for many years, spinning a mix of Acid and Techno with a puristic approach."
+        },
+        {
+            "id": 3,
+            "name": "Harvay McKay",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/Harveymckayglasgow",
+            "soundcloud": "https://soundcloud.com/harvey-mckay",
+            "ra": "https://www.residentadvisor.net/dj/harveymckay",
+            "image": "harveymckay.jpg",
+            "url": "harvay-mckay",
+            "pressKit":
+                "http://www.elitemm.co.uk/wp-content/uploads/2013/05/Harvey-McKay-press-pack-2017.zip",
+            "soundcloudEmbed": 15047,
+            "bio":
+                "After releasing records on L.I.E.S. and it’s offspring Russian Torrent Versions, Caserta native Domenico Crisci quickly rose to prominence among purveyors of timeless Techno. A third record on Eerie cemented his reputation as a careful engineer of effective, crafty dance floor cuts that comfortably sit next to early works of the genre’s pioneers. Domenico gathered experience as a DJ for many years, spinning a mix of Acid and Techno with a puristic approach."
+        },
+        {
+            "id": 4,
+            "name": "Reflec",
+            "perform": "DJ",
+            "facebook": "https://www.facebook.com/reflecmusic/",
+            "soundcloud": "https://soundcloud.com/reflec-1",
+            "ra": "https://www.residentadvisor.net/dj/reflec-uk",
+            "image": "reflec.jpg",
+            "url": "reflec",
+            "pressKit": "",
+            "soundcloudEmbed": 16956968,
+            "bio":
+                "London based Reflec, has been quietly digging away into the darker shades of electronic music in the last decade. After releasing a host of rhythmically and melodically orientated tracks on the likes of Pacific Command & Lobster Theremin respectively, he has found his home on Mancunian output Clergy, headed up by friend and frequent collaborator Cleric, alongside some of the most exciting names in techno. Throughout their friendship, Reflec & Cleric have developed the Works Unit project, which combines dark atmospheres with rolling drums and basslines to produce emotive yet dancefloor ready heaters that have garnered support from some of techno’s biggest artists. The support has rolled on to shows at some of Europe’s most exciting venues including ://about blank, The White Hotel and Dude Club, as well as being a regular fixture at the long standing London after-hours, Jaded."
+        }
+    ]
+}
